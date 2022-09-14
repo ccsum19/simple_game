@@ -4,13 +4,19 @@
 
 
 # Description
-1. Produce player using cylinders and spheres. 
-2. Manual object using mesh script
-3. 2 cameras, side-by-side
-4. Rotating player 
-
+Phase1
+  Player moving
+  Passing Dominos
+Phase2
+  Passing door(joint) with marbles
+Phase3
+  Move "Goal box" with marbles
+  Player moving
+Phase4
+  Move "Goal box"
+  Passing Hammar
 # Issues
-I couldn't see my manual object on Scene.
+-
 
 # Video
 
