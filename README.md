@@ -3,7 +3,7 @@
 <img width="469" alt="zoey_summer" src="https://user-images.githubusercontent.com/41042030/190055143-67fdc59e-63fa-4439-9e1b-c75e8f11fe27.png">
 
 # Description
-### Phase1
+#### Phase1
   * Player moving
   * Passing Dominos
 #### Phase2
