@@ -1,6 +1,6 @@
 # Zoey Cho
 
-<img width="301" alt="zoey_headshot" src="https://user-images.githubusercontent.com/41042030/188771928-4b198eef-5117-4fd7-8c5b-0c2fe020d567.png">
+<img width="301" alt="zoey_summer" src="https://user-images.githubusercontent.com/41042030/190054958-33f2a22f-4f47-41a4-abfa-8ac7955d8ec3.JPG"
 
 
 # Description
