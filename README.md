@@ -4,16 +4,16 @@
 
 # Description
 ### Phase1
-  *Player moving
-  *Passing Dominos
+  * Player moving
+  * Passing Dominos
 #### Phase2
-  *Passing door(joint) with marbles
+  * Passing door(joint) with marbles
 #### Phase3
-  *Move "Goal box" with marbles
-  *Player moving
+  * Move "Goal box" with marbles
+  * Player moving
 #### Phase4
-  *Move "Goal box"
-  *Passing Hammar
+  * Move "Goal box"
+  * Passing Hammar
 # Issues
 -
 
