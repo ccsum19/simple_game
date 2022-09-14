@@ -1,0 +1,7 @@
+echo "# assignment2-ccsum19" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ugavr22/assignment2-ccsum19.git
+git push -u origin main
