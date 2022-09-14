@@ -1,7 +1,6 @@
 # Zoey Cho
 
-<img width="301" alt="zoey_summer" src="https://user-images.githubusercontent.com/41042030/190054958-33f2a22f-4f47-41a4-abfa-8ac7955d8ec3.JPG"
-
+![37F65B1A-D4A0-4949-BCAB-F347F2DDCC05](https://user-images.githubusercontent.com/41042030/190054958-33f2a22f-4f47-41a4-abfa-8ac7955d8ec3.JPG)
 
 # Description
 ### Phase1
